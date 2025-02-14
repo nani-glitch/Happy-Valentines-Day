@@ -16,9 +16,11 @@ body{ background: url(../images/bg.jpg) no-repeat top center; border:0; font:12p
         bottom: 40px; /* adjust as needed */
         left: 50%;
         transform: translateX(-50%);
-        font-size: 48px;
+        font-size: 42px;
         font-weight: bold;
+        line-height: 55px;
         font-family: 'Georgia', serif;
+        text-align: center;
         color: #d6336c; /* deep romantic pink */
         background: linear-gradient(135deg, #ffe6f095, #ffccdacf);
         padding: 10px 20px;
@@ -276,3 +278,4 @@ footer a:hover{}
 
 .fancybox img{width:167px;height:130px}
 /* ============================= end forms ============================= */
+
