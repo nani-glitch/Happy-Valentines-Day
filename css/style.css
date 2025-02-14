@@ -13,7 +13,7 @@ body{ background: url(../images/bg.jpg) no-repeat top center; border:0; font:12p
     /* Neon Message Styles (Crisp, Less Blur) */
     #neonMessage {
         position: fixed;
-        bottom: 90px; /* adjust as needed */
+        bottom: 40px; /* adjust as needed */
         left: 50%;
         transform: translateX(-50%);
         font-size: 48px;
